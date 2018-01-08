@@ -1,0 +1,1169 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"class"
+			],
+			[
+				"desc",
+				"descendants"
+			],
+			[
+				"parn",
+				"parent_changeable"
+			],
+			[
+				"compa",
+				"compact_parent_types"
+			],
+			[
+				"child",
+				"child"
+			],
+			[
+				"descri",
+				"described_module"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"paren",
+				"parents"
+			],
+			[
+				"describe",
+				"described_class"
+			],
+			[
+				"for",
+				"foreign_key"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"granchil",
+				"grandchildren"
+			],
+			[
+				"grandchil",
+				"grandchild"
+			],
+			[
+				"destr",
+				"destroys"
+			],
+			[
+				"grand",
+				"grandchild"
+			],
+			[
+				"dest",
+				"destroys"
+			],
+			[
+				"Grandchilcl",
+				"DoubleTreeNodeGrandchildClass"
+			],
+			[
+				"Doubgran",
+				"DobuleTreeNodeGrandparentClass"
+			],
+			[
+				"parent",
+				"parent_model"
+			],
+			[
+				"org",
+				"organizations"
+			],
+			[
+				"tar",
+				"targeting_allowed"
+			],
+			[
+				"targ",
+				"targetings"
+			],
+			[
+				"camp",
+				"campaign"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "git blame cu",
+		"selected_items":
+		[
+			[
+				"git blame cu",
+				"git: blame current file"
+			],
+			[
+				"git log cur",
+				"Git: Log Current File"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"restr",
+				"RESTer: HTTP Request"
+			],
+			[
+				"git blame cur",
+				"git: blame current file"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"git check",
+				"git: checkout"
+			],
+			[
+				"git checkout",
+				"git: checkout"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"git lgoc",
+				"git: log current file"
+			],
+			[
+				"git lg cur",
+				"Git: Log Current File"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"git checkout ",
+				"git: checkout"
+			],
+			[
+				"sessql",
+				"Set Syntax: SQL"
+			],
+			[
+				"setsynsql",
+				"Set Syntax: SqLite"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"settysql",
+				"Set Syntax: SqLite"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"res",
+				"RESTer: HTTP Request"
+			],
+			[
+				"re",
+				"RESTer: HTTP Request"
+			],
+			[
+				"rest",
+				"RESTer: HTTP Request"
+			],
+			[
+				"gitlogcur",
+				"Git: Log Current File"
+			],
+			[
+				"rester",
+				"RESTer: HTTP Request"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"git hash",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"git ",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"git log al",
+				"Git: Log All"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			]
+		],
+		"width": 492.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/conorpappas/software/projects/learning_clojure"
+	],
+	"file_history":
+	[
+		"/Users/conorpappas/software/projects/learning_clojure/learning_clojure.sublime-project",
+		"/Users/conorpappas/software/dataxu/cms/app/models/iou/flight.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/iou/flight_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/tasks/db.rake",
+		"/Users/conorpappas/software/dataxu/cms/.env.local",
+		"/Users/conorpappas/software/dataxu/cms/app/models/iou/campaign.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/iou/tactic_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/iou/tactic.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/iou/campaign_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/concerns/tree_node_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/concerns/tree_node.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/insertion_order_unit_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/insertion_order_unit.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/iou/media_plan.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/iou/media_plan_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/support/shared_example_tree_node.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/insertion_order_units_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/contract.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/initializers/active_model_errors_ext.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/lib/auth_token_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/builders/private_exchange_builder.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/lib/builders/private_exchange_builder_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/factories/campaigns.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/initializers/core_extensions.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/user.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/contract_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/core_extensions/active_record/model_schema/load_schema_allow_nil_table.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/lib/core_extensions/active_record/model_schema/load_schema_allow_nil_table_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/term_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/factories/media_plans.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/lib/copiers/flight_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/copiers/flight.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/migrate/20171005213849_data_vendor_organization.rb",
+		"/Users/conorpappas/.ssh/config",
+		"/Users/conorpappas/software/dataxu/cms/app/models/concerns/dx_model_cache.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/policies/application_policy.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/viewability_term_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/viewability_term.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/iou_filter/algorithms.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/routes.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/policies/product_policy.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/rest_authorization.rb",
+		"/Users/conorpappas/software/dataxu/cms/.env.production",
+		"/Users/conorpappas/software/dataxu/cms/config/environments/development.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/application_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/.git/COMMIT_EDITMSG",
+		"/Users/conorpappas/software/dataxu/cms/.git/rebase-merge/git-rebase-todo",
+		"/Users/conorpappas/software/dataxu/cms/db/migrate/20170720151227_dxui_18041_fix_dx_history_tables.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/term.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/controllers/concerns/iou_filter/algorithms_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/.env",
+		"/Users/conorpappas/software/dataxu/cms/config/initializers/application_controller_renderer.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/role.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/validators/date_range_validator.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/validators/date_range_validator_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/validators/iso_date_validator_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/validators/hierarchical_date_validator.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/validators/iso_date_validator.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/application_record.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/support/shared_example_tree_node.rb.bak",
+		"/Users/conorpappas/software/dataxu/cms/spec/support/shared_example_policy_with_role_permissions.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/performance_profiling.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/factories/product_feature.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/legacy/currency_rate.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/legacy/flight_type.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/legacy/vendor.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/content_channel.rb",
+		"/Users/conorpappas/software/dataxu/cms/.env.development",
+		"/Users/conorpappas/software/dataxu/cms/config/environments/demo.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/environments/production.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/environments/staging.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/application.rb",
+		"/Users/conorpappas/software/dataxu/cms/config/initializers/identity_cache.rb",
+		"/Users/conorpappas/software/dataxu/cms/Gemfile",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/google_provinces_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/products_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/base_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/audiences_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/user_role.rb",
+		"/Users/conorpappas/software/dataxu/dxng/.git/info/exclude",
+		"/Users/conorpappas/.bash_profile",
+		"/Users/conorpappas/software/dataxu/cms/cms-test/authorization/lib/policy.py",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/elastic_search.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/auth_token.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/controllers/concerns/parent_loader_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/Dockerfile",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/set_items_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/cms-structure.sql",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/external_ids_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/order_filter.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/migrate/20171107152652_dxui_20536_remove_ids_from_composite_key_tables.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.flights_mobile_clients.20171004184522.sql",
+		"/Users/conorpappas/software/dataxu/cms/lib/organization_extensions.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/cog.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/dml/20171106172812_remove_timestamps_from_tactics.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/cms/create_tactics_with_timestamps_log.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/cms/create_tactics_with_timestamps_log.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/migrate/20171106172812_dxui20543_remove_timestamps_from_tactics.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/dml/20171106172812_remove_timestamps_from_tactics.sql",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/iou_filter/products.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/cms/remove_timestamps_from_tactics.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/migrate/20170922123113_dxui_20244_update_campaign_content_channels_keys.rb",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/cms/remove_timestamps_from_tactics.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/cms/log_tactics_with_timestamps.sql",
+		"/Users/conorpappas/software/dataxu/cms/lib/builders/iou/flight_builder.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/builders/insertion_order_unit_builder.rb",
+		"/Users/conorpappas/software/dataxu/cms/log/test.log",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.flights_mobile_clients.20171004184522.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.campaign_content_channels.20170922123113.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.system_relationships.20171004184512.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.campaign_content_channels.20170922123113.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.system_relationships.20171004184512.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/core.campaign_content_channels.20171004205235.down.sql",
+		"/Users/conorpappas/software/dataxu/cms/db/sql/ddl/core/20160329143408_aoc_set_start_time.sql",
+		"/Users/conorpappas/software/dataxu/cms/app/models/legacy/flight.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/data_set.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/domain.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/models/legacy/dmas_flight.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/controllers/device_vendors_controller_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/collection_filter.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/concerns/api_render.rb",
+		"/Users/conorpappas/software/dataxu/cms/app/controllers/term_changes_controller.rb",
+		"/Users/conorpappas/software/dataxu/cms/lib/copiers/tactic.rb",
+		"/Users/conorpappas/software/dataxu/cms/cms-test/local_arguments.txt",
+		"/Users/conorpappas/software/dataxu/cms/app/models/concerns/cic_model_callbacks.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/models/constraint_spec.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/factories/flights.rb",
+		"/Users/conorpappas/software/dataxu/cms/spec/spec_helper.rb"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 176.0
+	},
+	"output.exec":
+	{
+		"height": 370.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "learning_clojure.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"flightspe",
+				"spec/models/iou/flight_spec.rb"
+			],
+			[
+				"treenod",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"medipln.rb",
+				"app/models/iou/media_plan.rb"
+			],
+			[
+				"modelcampaspec.rb",
+				"spec/models/iou/campaign_spec.rb"
+			],
+			[
+				"modeltaspe.",
+				"spec/models/iou/tactic_spec.rb"
+			],
+			[
+				"modelflihg.r",
+				"app/models/iou/flight.rb"
+			],
+			[
+				"campaign.rb",
+				"app/models/iou/campaign.rb"
+			],
+			[
+				"tacti",
+				"app/models/iou/tactic.rb"
+			],
+			[
+				"flight",
+				"app/models/iou/flight.rb"
+			],
+			[
+				"taskdb",
+				"lib/tasks/db.rake"
+			],
+			[
+				".env.lo",
+				".env.local"
+			],
+			[
+				"inserionorunispec.r",
+				"spec/models/insertion_order_unit_spec.rb"
+			],
+			[
+				"treenodespe",
+				"spec/models/concerns/tree_node_spec.rb"
+			],
+			[
+				"treenode.r",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"trenod",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"shareextreenod",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"treenode",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				".env",
+				".env.local"
+			],
+			[
+				"contract",
+				"app/models/contract.rb"
+			],
+			[
+				"shreextrenode",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"priexhbuildspe",
+				"spec/lib/builders/private_exchange_builder_spec.rb"
+			],
+			[
+				"privexhbuild.erb",
+				"lib/builders/private_exchange_builder.rb"
+			],
+			[
+				".env.",
+				".env.local"
+			],
+			[
+				"insuni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"shaetreenod",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"coreexten",
+				"config/initializers/core_extensions.rb"
+			],
+			[
+				"allownil",
+				"lib/core_extensions/active_record/model_schema/load_schema_allow_nil_table.rb"
+			],
+			[
+				"flighspec.r",
+				"spec/models/iou/flight_spec.rb"
+			],
+			[
+				"contraspec.r",
+				"spec/models/contract_spec.rb"
+			],
+			[
+				"contrac",
+				"app/models/contract.rb"
+			],
+			[
+				"campaignspec",
+				"spec/models/iou/campaign_spec.rb"
+			],
+			[
+				"inserionouni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"camp",
+				"spec/factories/campaigns.rb"
+			],
+			[
+				"campai",
+				"app/models/iou/campaign.rb"
+			],
+			[
+				"factorcamp",
+				"spec/factories/campaigns.rb"
+			],
+			[
+				"tactic.rb",
+				"app/models/iou/tactic.rb"
+			],
+			[
+				"tactispec.rb",
+				"spec/models/iou/tactic_spec.rb"
+			],
+			[
+				"mediplaspec.r",
+				"spec/models/iou/media_plan_spec.rb"
+			],
+			[
+				"mediaplnspe.",
+				"spec/models/iou/media_plan_spec.rb"
+			],
+			[
+				"mediplan",
+				"spec/factories/media_plans.rb"
+			],
+			[
+				"flihspe.rb",
+				"spec/models/iou/flight_spec.rb"
+			],
+			[
+				"flighspec.rb",
+				"spec/lib/copiers/flight_spec.rb"
+			],
+			[
+				"inounispe.rb",
+				"spec/models/insertion_order_unit_spec.rb"
+			],
+			[
+				"inouni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"modelfligh",
+				"app/models/iou/flight.rb"
+			],
+			[
+				"flight.rb",
+				"lib/copiers/flight.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"extreenode",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"20170720151227_dxui_18041_fix_dx_history_tables",
+				"db/migrate/20170720151227_dxui_18041_fix_dx_history_tables.rb"
+			],
+			[
+				"treeno",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"treenode.rb",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"contract.rb",
+				"app/models/contract.rb"
+			],
+			[
+				"sharetreenode",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"trenode.rb",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"inseionuni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"contspec.r",
+				"spec/models/contract_spec.rb"
+			],
+			[
+				"nodesp",
+				"spec/models/concerns/tree_node_spec.rb"
+			],
+			[
+				"term.rb",
+				"app/models/term.rb"
+			],
+			[
+				"viewabilityterm",
+				"app/models/viewability_term.rb"
+			],
+			[
+				"viewtermspec.rb",
+				"spec/models/viewability_term_spec.rb"
+			],
+			[
+				"inserinouni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"trenod.r",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"shareextreenode",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"inseironouni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"modelcache",
+				"app/models/concerns/dx_model_cache.rb"
+			],
+			[
+				"insertionounicontoelr",
+				"app/controllers/insertion_order_units_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			],
+			[
+				"devel.rb",
+				"config/environments/development.rb"
+			],
+			[
+				"appcontol",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"appcontoler",
+				"config/initializers/application_controller_renderer.rb"
+			],
+			[
+				"resauth",
+				"app/controllers/concerns/rest_authorization.rb"
+			],
+			[
+				"productpolicy",
+				"app/policies/product_policy.rb"
+			],
+			[
+				"propoli",
+				"app/policies/product_policy.rb"
+			],
+			[
+				"role",
+				"app/models/role.rb"
+			],
+			[
+				"shareextrenod",
+				"spec/support/shared_example_tree_node.rb"
+			],
+			[
+				"trenode.r",
+				"app/models/concerns/tree_node.rb"
+			],
+			[
+				"iosdspec",
+				"spec/validators/iso_date_validator_spec.rb"
+			],
+			[
+				"daterangvalid",
+				"app/validators/date_range_validator.rb"
+			],
+			[
+				"daterangv",
+				"app/validators/date_range_validator.rb"
+			],
+			[
+				"daterangevalisp",
+				"spec/validators/date_range_validator_spec.rb"
+			],
+			[
+				"isodavali",
+				"app/validators/iso_date_validator.rb"
+			],
+			[
+				"hei",
+				"app/validators/hierarchical_date_validator.rb"
+			],
+			[
+				"daterangevalid",
+				"app/validators/date_range_validator.rb"
+			],
+			[
+				"insouni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"insionunispec",
+				"spec/models/insertion_order_unit_spec.rb"
+			],
+			[
+				"insio",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"inserionoruni.rb",
+				"app/models/insertion_order_unit.rb"
+			],
+			[
+				"campaig",
+				"app/models/iou/campaign.rb"
+			],
+			[
+				"coreex",
+				"config/initializers/core_extensions.rb"
+			],
+			[
+				"profilin",
+				"app/controllers/concerns/performance_profiling.rb"
+			],
+			[
+				"prof",
+				"spec/factories/product_feature.rb"
+			],
+			[
+				"perform",
+				"app/controllers/concerns/performance_profiling.rb"
+			],
+			[
+				"applicrecord",
+				"app/models/application_record.rb"
+			],
+			[
+				"corextnion",
+				"config/initializers/core_extensions.rb"
+			],
+			[
+				"treenodespec.rb",
+				"spec/models/concerns/tree_node_spec.rb"
+			],
+			[
+				"contentchanel.rb",
+				"app/models/content_channel.rb"
+			],
+			[
+				"vendor.r",
+				"app/models/legacy/vendor.rb"
+			],
+			[
+				"flighttype",
+				"app/models/legacy/flight_type.rb"
+			],
+			[
+				"currencyrate.rb",
+				"app/models/legacy/currency_rate.rb"
+			],
+			[
+				"staging.rb",
+				"config/environments/staging.rb"
+			],
+			[
+				"appli.rb",
+				"config/application.rb"
+			],
+			[
+				"dev",
+				"config/environments/development.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"envdemorb",
+				"config/environments/demo.rb"
+			],
+			[
+				"idencache",
+				"config/initializers/identity_cache.rb"
+			],
+			[
+				"dxmodelcache",
+				"app/models/concerns/dx_model_cache.rb"
+			],
+			[
+				"developmrb",
+				"config/environments/development.rb"
+			],
+			[
+				"production.rb",
+				"config/environments/production.rb"
+			],
+			[
+				"dxmodelc",
+				"app/models/concerns/dx_model_cache.rb"
+			],
+			[
+				"pro.rb",
+				"config/environments/production.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"confistaging",
+				"config/environments/staging.rb"
+			],
+			[
+				"config/envprod",
+				"config/environments/production.rb"
+			],
+			[
+				"userrole",
+				"app/models/user_role.rb"
+			],
+			[
+				"apppl",
+				"app/policies/application_policy.rb"
+			],
+			[
+				"apppli",
+				"app/policies/application_policy.rb"
+			],
+			[
+				"apppoli",
+				"app/policies/application_policy.rb"
+			],
+			[
+				"produpoli",
+				"app/policies/product_policy.rb"
+			],
+			[
+				"policy.rb",
+				"app/policies/product_policy.rb"
+			],
+			[
+				"resauthori",
+				"app/controllers/concerns/rest_authorization.rb"
+			],
+			[
+				"audcontoler",
+				"app/controllers/audiences_controller.rb"
+			],
+			[
+				"basecontoler",
+				"app/controllers/base_controller.rb"
+			],
+			[
+				"resautho",
+				"app/controllers/concerns/rest_authorization.rb"
+			],
+			[
+				"prcontoler",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"procontoler",
+				"app/controllers/google_provinces_controller.rb"
+			],
+			[
+				"rest",
+				"app/controllers/concerns/rest_authorization.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 514.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
